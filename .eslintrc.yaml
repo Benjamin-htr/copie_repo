@@ -15,3 +15,7 @@ parserOptions:
 
 plugins:
   - "@typescript-eslint"
+
+env:
+  browser: true
+  node: true

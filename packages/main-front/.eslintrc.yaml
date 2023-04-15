@@ -1,0 +1,10 @@
+extends:
+  - ../../.eslintrc.yaml
+
+ignorePatterns:
+  - "!**/*"
+
+parserOptions:
+  ecmaVersion: 2022
+  project: packages/main-front/tsconfig.json
+  sourceType: module

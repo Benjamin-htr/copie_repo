@@ -4,7 +4,9 @@ METS TES BOATS est un projet de développement de simulation maritime. Il s'agit
 
 ## Equipe
 
----
+- Benjamin Hautier
+- Mael Bizot
+- Marty Hughes
 
 ## Structure du projet
 
